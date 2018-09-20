@@ -1,0 +1,7 @@
+c:\users\asharma\source\repos\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+c:\users\asharma\source\repos\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe
+c:\users\asharma\source\repos\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.pdb
+c:\users\asharma\source\repos\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csprojResolveAssemblyReference.cache
+c:\users\asharma\source\repos\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+c:\users\asharma\source\repos\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.exe
+c:\users\asharma\source\repos\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.pdb
