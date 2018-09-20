@@ -50,3 +50,7 @@ namespace AsyncAwait
         }
     }
 }
+
+//Flow: Task completes first
+//Method1 starts execution, waits for 1 second per loop iteration. Until then, Method2 and 3 completes its task.
+//Try doing Thread.Sleep(1) and see changes in output.
